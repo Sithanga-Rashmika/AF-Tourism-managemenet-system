@@ -1,3 +1,10 @@
+ABOUT THE PROJECT
+
+CEYLON TOURS is a web-based application that provides a variety of solutions for administering and coordinating tourism-related activities in Sri Lanka in order to promote sustainable tourism. The goal of this website is to conserve and display Sri Lanka's cultural heritage to tourists. This website has been designed to meet the needs of travelers, tour guides, and local cultural product creators. The website provides a user-friendly interface via which visitors may obtain all of the required information on places to visit in Sri Lanka, such as tour destinations, traditional artisans, culture, and variety. Tourists can create blogs on their experiences in Sri Lanka. They may also read and learn about locations to visit in Sri Lanka by visiting the website.
+
+There is a separate interface for sellers. Sellers mean business parties who own hotels, villas, and other things related to the tourism industry. Sellers can register on our Ceylon Tours website and they can post new Trip plans then guests can search and choose a required trip plan. when guests request the trip plan the details will be notified seller and the seller can manually accept or deny the request using the seller dashboard. seller dashboard is the place that helps seller handle their work such as adding new trip plans, viewing available plans, seller profiles, receiving orders, accepting orders, and password reset. Both Tourists and locals can join in activities organized by traditional craftspeople and cultural entrepreneurs by reserving a session on the website.
+
+
 ![dash](https://github.com/IT21041716/AF-Tourism-managemenet-system/assets/87372439/a11b2630-ab59-4867-8872-bed35b086b77)
 ![screencapture-127-0-0-1-5173-accepted-orders-2023-07-30-12_46_30](https://github.com/IT21041716/AF-Tourism-managemenet-system/assets/87372439/75cef745-d4b7-4b68-8569-4f5028da7007)
 ![screencapture-127-0-0-1-5173-checkout-TID1684507079646-sithanga1231-gmail-com-2023-07-05-2-94763223349-Sithanga-Rashmika-2023-07-30-12_23_46](https://github.com/IT21041716/AF-Tourism-managemenet-system/assets/87372439/2e550053-1181-4c6a-b699-412cd53a43e1)
